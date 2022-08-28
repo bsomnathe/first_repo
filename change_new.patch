@@ -1,0 +1,9 @@
+--- hello_world.c	2022-08-28 12:36:29.159425353 +0530
++++ hello_new.c	2022-08-28 12:37:33.138559602 +0530
+@@ -4,5 +4,6 @@
+ 	printf("Hello World!!!!");
+ 	printf("I will going to be good programmer..");
+ 	printf("I will strugle and looking forward with positive approch");
++	printf("Never give up!!");
+ 	return 0;
+ }
